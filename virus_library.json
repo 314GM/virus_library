@@ -3748,5 +3748,10 @@
         "app_name": "",
         "virus_type": "backdoor",
         "package_name": "soxyroot.p"
+    },
+	{
+        "app_name": "GGGMMM",
+        "virus_type": "backdoor",
+        "package_name": "GGGMMMTest"
     }
 ]
